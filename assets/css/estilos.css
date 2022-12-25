@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+    --botao-azul: #167BF7;
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --cor-fonte-alternativa: #F9F9F9;
+    --cor-de-fundo: #00030C;
+
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+body {
+    background: var(--cor-de-fundo);
+    color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+}

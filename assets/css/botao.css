@@ -1,0 +1,24 @@
+.botao {
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.botao--preenchido {
+    background: var(--botao-azul);
+}
+
+.botao--borda {
+    border: 1px solid var(--branco-principal);
+}
+
+.botao-cabecalho {
+    width: 512px;
+}
+
+.botao-cabecalho.botao--preenchido {
+    margin-bottom: 1rem;
+}
+
+.botao-cabecalho.botao--borda {
+    margin-bottom: 0.625rem;
+}
