@@ -1,0 +1,10 @@
+.cabecalho {
+    align-items: center;
+    background-image: url('../../img/Background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 680px;
+    justify-content: flex-start;
+    padding: 0 3.375rem;
+}
