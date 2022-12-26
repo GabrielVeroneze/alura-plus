@@ -1,0 +1,8 @@
+.secao {
+    display: flex;
+    align-items: center;
+}
+
+.secao--direita {
+    justify-content: flex-end;
+}
