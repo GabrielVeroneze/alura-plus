@@ -1,0 +1,11 @@
+.cabecalho__botao {
+    width: 512px;
+}
+
+.cabecalho__botao.botao--preenchido {
+    margin-bottom: 1rem;
+}
+
+.cabecalho__botao.botao--borda {
+    margin-bottom: 0.625rem;
+}
