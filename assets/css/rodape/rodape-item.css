@@ -1,0 +1,7 @@
+.rodape__item {
+    line-height: 24px;
+}
+
+.rodape__item:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,9 @@
+.rodape__texto {
+    color: var(--cinza-secundario);
+    font-size: 0.875rem;
+    line-height: 21px;
+}
+
+.rodape__texto--copyright {
+    margin-bottom: 1.25rem;
+}

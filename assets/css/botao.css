@@ -11,3 +11,12 @@
 .botao--borda {
     border: 1px solid var(--branco-principal);
 }
+
+.botao:hover {
+    transform: scale(1.025);
+    transition: 0.15s;
+}
+
+.botao:active {
+    transform: scale(1);
+}
