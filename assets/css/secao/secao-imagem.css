@@ -1,7 +1,11 @@
-.imagem--direita {
+.secao__imagem--plataformas {
     margin-right: 4.375rem;
 }
 
-.imagem--esquerda {
+.secao__imagem--telas {
     margin-left: 4.375rem;
+}
+
+.secao__imagem--notebook {
+    margin-right: 2.75rem;
 }
