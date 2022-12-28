@@ -3,3 +3,9 @@
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
+@media screen and (max-width: 768px) {
+    .dispositivos__conteudo {
+        flex-direction: column;
+    }
+}

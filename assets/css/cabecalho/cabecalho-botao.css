@@ -9,3 +9,9 @@
 .cabecalho__botao.botao--borda {
     margin-bottom: 0.625rem;
 }
+
+@media screen and (max-width: 768px) {
+    .cabecalho__botao {
+        width: 100%;
+    }
+}

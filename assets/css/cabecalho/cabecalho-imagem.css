@@ -1,3 +1,9 @@
 .cabecalho__imagem {
     margin-bottom: 3.375rem;
 }
+
+@media screen and (max-width: 425px) {
+    .cabecalho__imagem {
+        width: 306px;
+    }
+}

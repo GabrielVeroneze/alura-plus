@@ -10,21 +10,52 @@
     margin-right: 2.75rem;
 }
 
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 1024px) {
     .secao__imagem--plataformas {
-        height: 398px;
-        margin-right: 2rem;
-        width: 460px;
+        width: calc(498px - 80px);
+        margin-right: 3rem;
     }
 
     .secao__imagem--telas {
-        height: 239px;
-        margin-left: 2rem;
-        width: 396px;
+        width: calc(496px - 80px);
+        margin-left: 3rem;
     }
 
     .secao__imagem--notebook {
-        height: 224px;
-        width: 447px;
+        width: calc(547px - 80px);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .secao__imagem--plataformas {
+        width: calc(498px - 160px);
+        margin: 2rem 0 0 0;
+    }
+
+    .secao__imagem--telas {
+        width: calc(496px - 160px);
+        margin: 0 0 2rem 0;
+    }
+
+    .secao__imagem--notebook {
+        width: calc(547px - 160px);
+        margin: 2rem 0 0 0;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .secao__imagem--plataformas {
+        width: calc(498px - 240px);
+
+    }
+
+    .secao__imagem--telas {
+        width: calc(496px - 240px);
+
+    }
+
+    .secao__imagem--notebook {
+        width: calc(547px - 240px);
     }
 }

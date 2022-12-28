@@ -9,3 +9,9 @@
         font-size: 2.25rem;
     }
 }
+
+@media screen and (max-width: 425px) {
+    .secao__titulo {
+        font-weight: 600;
+    }
+}

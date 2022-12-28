@@ -8,3 +8,9 @@
         font-size: 1.5rem;
     }
 }
+
+@media screen and (max-width: 425px) {
+    .dispositivos__legenda {
+        font-weight: 600;
+    }
+}

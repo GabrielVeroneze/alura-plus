@@ -1,5 +1,6 @@
 .rodape__item {
     line-height: 24px;
+    margin-right: 1rem;
 }
 
 .rodape__item:hover {
@@ -9,5 +10,11 @@
 @media screen and (max-width: 768px) {
     .rodape__item {
         margin-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .rodape__item {
+        margin-right: 0;
     }
 }

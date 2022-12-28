@@ -6,3 +6,9 @@
     text-align: center;
     width: 588px;
 }
+
+@media screen and (max-width: 768px) {
+    .cabecalho__conteudo {
+        margin: 0;
+    }
+}

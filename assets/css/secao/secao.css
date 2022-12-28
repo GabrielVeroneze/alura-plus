@@ -6,3 +6,9 @@
 .secao--direita {
     justify-content: flex-end;
 }
+
+@media screen and (max-width: 768px) {
+    .secao {
+        flex-direction: column-reverse;
+    }
+}

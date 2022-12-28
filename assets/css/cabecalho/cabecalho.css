@@ -9,6 +9,16 @@
 
 @media screen and (max-width: 768px) {
     .cabecalho {
+        background-image: none;
         justify-content: center;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .cabecalho {
+        padding-left: 1rem;
+        padding-right: 1rem;
     }
 }
