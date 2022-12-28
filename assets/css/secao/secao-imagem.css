@@ -9,3 +9,22 @@
 .secao__imagem--notebook {
     margin-right: 2.75rem;
 }
+
+@media screen and (max-width: 768px) {
+    .secao__imagem--plataformas {
+        height: 398px;
+        margin-right: 2rem;
+        width: 460px;
+    }
+
+    .secao__imagem--telas {
+        height: 239px;
+        margin-left: 2rem;
+        width: 396px;
+    }
+
+    .secao__imagem--notebook {
+        height: 224px;
+        width: 447px;
+    }
+}

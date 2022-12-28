@@ -4,3 +4,10 @@
     justify-content: center;
     text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+    .dispositivos {
+        height: max-content;
+        margin: 11.75rem 0;
+    }
+}

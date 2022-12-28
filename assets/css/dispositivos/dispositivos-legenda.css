@@ -2,3 +2,9 @@
     font-size: 2rem;
     font-weight: 700;
 }
+
+@media screen and (max-width: 768px) {
+    .dispositivos__legenda {
+        font-size: 1.5rem;
+    }
+}
