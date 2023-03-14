@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://imgur.com/ElS6HsC" alt="HTML e CSS: praticando HTML/CSS"> </p>
+<p align="center"> <img src="https://imgur.com/ElS6HsC.png" alt="HTML e CSS: praticando HTML/CSS"> </p>
 
 <hr>
 
